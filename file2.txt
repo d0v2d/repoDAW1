@@ -1,1 +1,2 @@
 contenido fichero 2
+segunda linea file2
