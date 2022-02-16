@@ -1,1 +1,2 @@
 contenido fichero 3
+segunda linea file3
